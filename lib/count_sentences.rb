@@ -19,3 +19,5 @@ class String
     binding.pry
   end
 end
+
+"Hi. Who are you?"
