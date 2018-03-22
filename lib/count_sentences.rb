@@ -20,4 +20,4 @@ class String
   end
 end
 
-"Hi. Who are you?"
+"Hi. Who are you? Hello!"
